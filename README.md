@@ -1,13 +1,5 @@
 # Their Story
 
-"Their Story" is an interactive fiction created on Twine. 
-In this story, the player incarnates a female student facing several cases of harassment in her everyday life.
-
-The aim of this game is to raise awareness on the problem of street harassment. 
-The public is wide, but mainly masculine. Indeed, for men playing this game, the goal is to make them realise how little and seemingly harmless acts can have critical repercussions on a person's life
-
-
-
 "Their Story" est une fiction interactive créée sur Twine. 
 Dans cette histoire, le/la joueur/joueuse incarne une étudiante qui fait face à différentes situations de harcèlement dans sa vie de tous les jours. 
 
